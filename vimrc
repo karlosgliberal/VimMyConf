@@ -20,6 +20,14 @@ set clipboard=unnamed
 "colorscheme zen
 colorscheme vibrantink
 
+" Toggle spell checking on and off with `,s`
+let mapleader = ","
+nmap <silent> <leader>s :set spell!<CR>
+ 
+" Set region to casteñano español
+set spelllang=es_ES
+
+
 let php_baselib = 1
 let php_htmlInStrings = 1 " para ver resaltado html en php
 let php_parent_error_close = 1 " Genera error con mala sintaxis en las llaves
