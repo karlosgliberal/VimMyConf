@@ -26,22 +26,22 @@ Installation
 TODO
 ====
 
-El plugin snipmate.vim lo añado a bundles desde un fork propio y asi en el snippset de php.snippets añado los snip de drupal
+El plugin snipmate.vim lo añado a bundles desde un fork propio y asi incluyo un php.snippets modificado con las golosinas de drupal
 Supuestamente se tendria que poder hacer sin este apaño, pero se tiene que cambiar el filetype a tipo "drupal" y no me gusta.
 Mientras que descubro como se usar filetype-overrule se queda así
 
 Plugins
 =======
 
-* nerdtree -> gestor de directorios  
-* snipmate -> atajos tipo texmate
-* sokoban.vim -> juego sokoban
-* supertab -> para acceder a la funcion autocompletado con el tabulador igual que los snipet
-* tcomment_vim -> comentarios en el codigo
-* vim-coffee-script -> coffescript
+* nerdtree => Gestor de directorios  
+* snipmate => Atajos tipo texmate
+* sokoban.vim => Juego sokoban
+* supertab => Para acceder a la funcion autocompletado con el tabulador igual que los snipet
+* tcomment_vim => Comentarios en el codigo
+* vim-coffee-script => Coffescript
 * vim-colors-solarized 
-* vim-fugitive -> Gestión de git para vim (BRUATL)
-* vim-jade -> Sistema de plantillas de expressjs
-* vim-jquery -> integración con jquery
+* vim-fugitive => Gestión de git para vim (BRUATL)
+* vim-jade => Sistema de plantillas de expressjs
+* vim-jquery => Integración con jquery
 * vim-markdown 
-* vim-stylus -> css diyievolucionado tipos sass o less (node.js)
+* vim-stylus => Css diyievolucionado tipos sass o less (node.js)
