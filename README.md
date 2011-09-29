@@ -33,15 +33,15 @@ Mientras que descubro como se usar filetype-overrule se queda así
 Plugins
 =======
 
-nerdtree -> gestor de directorios  
-snipmate -> atajos tipo texmate
-sokoban.vim -> juego sokoban
-supertab -> para acceder a la funcion autocompletado con el tabulador igual que los snipet
-tcomment_vim -> comentarios en el codigo
-vim-coffee-script -> coffescript
-vim-colors-solarized 
-vim-fugitive -> Gestión de git para vim (BRUATL)
-vim-jade -> Sistema de plantillas de expressjs
-vim-jquery -> integración con jquery
-vim-markdown 
-vim-stylus -> css diyievolucionado tipos sass o less (node.js)
+* nerdtree -> gestor de directorios  
+* snipmate -> atajos tipo texmate
+* sokoban.vim -> juego sokoban
+* supertab -> para acceder a la funcion autocompletado con el tabulador igual que los snipet
+* tcomment_vim -> comentarios en el codigo
+* vim-coffee-script -> coffescript
+* vim-colors-solarized 
+* vim-fugitive -> Gestión de git para vim (BRUATL)
+* vim-jade -> Sistema de plantillas de expressjs
+* vim-jquery -> integración con jquery
+* vim-markdown 
+* vim-stylus -> css diyievolucionado tipos sass o less (node.js)
