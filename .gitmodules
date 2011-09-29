@@ -1,0 +1,30 @@
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/sokoban.vim"]
+	path = bundle/sokoban.vim
+	url = https://github.com/vim-scripts/sokoban.vim.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/tcomment_vim"]
+	path = bundle/tcomment_vim
+	url = git://github.com/tomtom/tcomment_vim.git
+[submodule "bundle/vim-coffee-script"]
+	path = bundle/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-jade"]
+	path = bundle/vim-jade
+	url = https://github.com/digitaltoad/vim-jade.git
+[submodule "bundle/vim-jquery"]
+	path = bundle/vim-jquery
+	url = https://github.com/itspriddle/vim-jquery.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = https://github.com/tpope/vim-markdown.git
+[submodule "bundle/vim-stylus"]
+	path = bundle/vim-stylus
+	url = https://github.com/vim-scripts/vim-stylus.git
